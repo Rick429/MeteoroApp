@@ -1,5 +1,3 @@
-//Constants
-const String API_KEY = "4df3c643539bff3cbff2a3ef9f57504b";
 
 //Preferences
 
